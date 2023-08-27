@@ -50,3 +50,9 @@ for i in range(count):
     number=number+decimal*pow(10,i)
 print(number)
 
+
+
+
+
+
+
